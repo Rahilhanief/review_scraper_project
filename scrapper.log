@@ -5386,3 +5386,188 @@ INFO:root:log my final result []
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "POST /review HTTP/1.1" 200 -
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.5:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:58:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:58:49] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:58:49] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:58:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone', 'Name': 'Pushpita Mayra', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Awesome phone Excellent camera quality'}, {'Product': 'iphone', 'Name': 'Biswabandhu Debnath', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Best phone available at this price point.Camera is comparable with entry level DSLR(marvellous dynamic range)The performance is unmatchable.Shifted to iOS after 10 years of premium android smartphones.Go  for it without any second thought.'}, {'Product': 'iphone', 'Name': 'Badri Bishal  Pratihari ', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Love this phone..... 😍'}, {'Product': 'iphone', 'Name': 'Prasenjit Bar', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'Best phone for day to day use and photography/videography.'}, {'Product': 'iphone', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Happy to have this phone'}, {'Product': 'iphone', 'Name': 'Ajay Kr', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Awesome camera..I m love  it'}, {'Product': 'iphone', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Best of best'}, {'Product': 'iphone', 'Name': 'Tulasiram SABBAVARAPU', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Best phone in recent times I have used in my life'}, {'Product': 'iphone', 'Name': 'Arpan Dasgupta', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Nice product'}, {'Product': 'iphone', 'Name': 'Shivang Palyal', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'This is awosome .. camera is best . Here some photos i m sharing with you guys ..'}, {'Product': 'iphone', 'Name': 'Shivang Palyal', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'This is awosome .. camera is best . Here some photos i m sharing with you guys ..'}]
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:59:02] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:59:03] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:59:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.5:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:03:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:03:27] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:03:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:03:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:03:32] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:03:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone', 'Name': 'Pushpita Mayra', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Awesome phone Excellent camera quality'}, {'Product': 'iphone', 'Name': 'Biswabandhu Debnath', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Best phone available at this price point.Camera is comparable with entry level DSLR(marvellous dynamic range)The performance is unmatchable.Shifted to iOS after 10 years of premium android smartphones.Go  for it without any second thought.'}, {'Product': 'iphone', 'Name': 'Badri Bishal  Pratihari ', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Love this phone..... 😍'}, {'Product': 'iphone', 'Name': 'Prasenjit Bar', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'Best phone for day to day use and photography/videography.'}, {'Product': 'iphone', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Happy to have this phone'}, {'Product': 'iphone', 'Name': 'Ajay Kr', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Awesome camera..I m love  it'}, {'Product': 'iphone', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Best of best'}, {'Product': 'iphone', 'Name': 'Tulasiram SABBAVARAPU', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Best phone in recent times I have used in my life'}, {'Product': 'iphone', 'Name': 'Arpan Dasgupta', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Nice product'}, {'Product': 'iphone', 'Name': 'Shivang Palyal', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'This is awosome .. camera is best . Here some photos i m sharing with you guys ..'}, {'Product': 'iphone', 'Name': 'Shivang Palyal', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'This is awosome .. camera is best . Here some photos i m sharing with you guys ..'}]
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:03:43] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:03:47] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:03:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.5:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:14:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:14:51] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:14:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone', 'Name': 'Pushpita Mayra', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Awesome phone Excellent camera quality'}, {'Product': 'iphone', 'Name': 'Biswabandhu Debnath', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Best phone available at this price point.Camera is comparable with entry level DSLR(marvellous dynamic range)The performance is unmatchable.Shifted to iOS after 10 years of premium android smartphones.Go  for it without any second thought.'}, {'Product': 'iphone', 'Name': 'Badri Bishal  Pratihari ', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Love this phone..... 😍'}, {'Product': 'iphone', 'Name': 'Prasenjit Bar', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'Best phone for day to day use and photography/videography.'}, {'Product': 'iphone', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Happy to have this phone'}, {'Product': 'iphone', 'Name': 'Ajay Kr', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Awesome camera..I m love  it'}, {'Product': 'iphone', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Best of best'}, {'Product': 'iphone', 'Name': 'Tulasiram SABBAVARAPU', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Best phone in recent times I have used in my life'}, {'Product': 'iphone', 'Name': 'Arpan Dasgupta', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Nice product'}, {'Product': 'iphone', 'Name': 'Shivang Palyal', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'This is awosome .. camera is best . Here some photos i m sharing with you guys ..'}, {'Product': 'iphone', 'Name': 'Shivang Palyal', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'This is awosome .. camera is best . Here some photos i m sharing with you guys ..'}]
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:14:58] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.5:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:15:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:15:48] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:15:48] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:15:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:15:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:15:51] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:15:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone', 'Name': 'Pushpita Mayra', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Awesome phone Excellent camera quality'}, {'Product': 'iphone', 'Name': 'Biswabandhu Debnath', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Best phone available at this price point.Camera is comparable with entry level DSLR(marvellous dynamic range)The performance is unmatchable.Shifted to iOS after 10 years of premium android smartphones.Go  for it without any second thought.'}, {'Product': 'iphone', 'Name': 'Badri Bishal  Pratihari ', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Love this phone..... 😍'}, {'Product': 'iphone', 'Name': 'Prasenjit Bar', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'Best phone for day to day use and photography/videography.'}, {'Product': 'iphone', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Happy to have this phone'}, {'Product': 'iphone', 'Name': 'Ajay Kr', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Awesome camera..I m love  it'}, {'Product': 'iphone', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Best of best'}, {'Product': 'iphone', 'Name': 'Tulasiram SABBAVARAPU', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Best phone in recent times I have used in my life'}, {'Product': 'iphone', 'Name': 'Arpan Dasgupta', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Nice product'}, {'Product': 'iphone', 'Name': 'Shivang Palyal', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'This is awosome .. camera is best . Here some photos i m sharing with you guys ..'}, {'Product': 'iphone', 'Name': 'Shivang Palyal', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'This is awosome .. camera is best . Here some photos i m sharing with you guys ..'}]
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:16:01] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.5:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:16:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:16:37] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:16:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'readmi', 'Name': 'SAGAR T THORBOLE', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': "This is Honest Review. Performance is best. 5/5Display is also best. 5/5Camera is Average 3/5Battery is Best 5/5(No Lag No Hang, Smooth UI, Perfect Design) Don't Think Go for it"}, {'Product': 'readmi', 'Name': 'Manzoor Hussain', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'I love my phone'}, {'Product': 'readmi', 'Name': 'sushant kumar', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Super smart phone nice display love this phone'}, {'Product': 'readmi', 'Name': 'Araman Ali', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Nice Product'}, {'Product': 'readmi', 'Name': 'Ammy Singh', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'Nice product'}, {'Product': 'readmi', 'Name': 'Naidu Sasikala', 'Rating': '1', 'CommentHead': 'Terrible product', 'Comment': 'Product not good ,battery charging takes more time finger sensor issue,over heating mobile'}, {'Product': 'readmi', 'Name': 'Snigdhata Ghosh', 'Rating': '4', 'CommentHead': 'Classy product', 'Comment': 'Value for money.... Good quality, Good looking...'}, {'Product': 'readmi', 'Name': 'Anamika Sarkar', 'Rating': '1', 'CommentHead': 'Utterly Disappointed', 'Comment': 'Camera quality very very bad not good'}, {'Product': 'readmi', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Excellent'}, {'Product': 'readmi', 'Name': 'Sanku Maity', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Good quality'}, {'Product': 'readmi', 'Name': 'Sanku Maity', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Good quality'}]
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:16:45] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:18:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:18:38] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:18:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'readmi', 'Name': 'Deepak Verma', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'So wonderful good product'}, {'Product': 'readmi', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'we like it but camera quality is okk okk kind off👍'}, {'Product': 'readmi', 'Name': 'RAGHAVENDRA SINGH', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Very Good product this range..'}, {'Product': 'readmi', 'Name': 'Soushil  Anand', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Better productStock Android...5000 mah BatteryGood display'}, {'Product': 'readmi', 'Name': 'Dinesh  Bhadane ', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'budget phone good quality'}, {'Product': 'readmi', 'Name': 'Syed Mubarak', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Nice mobile'}, {'Product': 'readmi', 'Name': 'Samrat Biswas', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Good product  i am happy . 😊'}, {'Product': 'readmi', 'Name': 'Roshan Kumar', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Good prodect.'}, {'Product': 'readmi', 'Name': 'Velari Jayesh', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Super phone'}, {'Product': 'readmi', 'Name': 'Flipkart Customer', 'Rating': '4', 'CommentHead': 'Pretty good', 'Comment': 'Nice phone'}, {'Product': 'readmi', 'Name': 'Flipkart Customer', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Nice phone'}]
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:18:53] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.5:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'readmi', 'Name': 'SAGAR T THORBOLE', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': "This is Honest Review. Performance is best. 5/5Display is also best. 5/5Camera is Average 3/5Battery is Best 5/5(No Lag No Hang, Smooth UI, Perfect Design) Don't Think Go for it"}, {'Product': 'readmi', 'Name': 'Manzoor Hussain', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'I love my phone'}, {'Product': 'readmi', 'Name': 'sushant kumar', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Super smart phone nice display love this phone'}, {'Product': 'readmi', 'Name': 'Araman Ali', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Nice Product'}, {'Product': 'readmi', 'Name': 'Ammy Singh', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'Nice product'}, {'Product': 'readmi', 'Name': 'Naidu Sasikala', 'Rating': '1', 'CommentHead': 'Terrible product', 'Comment': 'Product not good ,battery charging takes more time finger sensor issue,over heating mobile'}, {'Product': 'readmi', 'Name': 'Snigdhata Ghosh', 'Rating': '4', 'CommentHead': 'Classy product', 'Comment': 'Value for money.... Good quality, Good looking...'}, {'Product': 'readmi', 'Name': 'Anamika Sarkar', 'Rating': '1', 'CommentHead': 'Utterly Disappointed', 'Comment': 'Camera quality very very bad not good'}, {'Product': 'readmi', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Excellent'}, {'Product': 'readmi', 'Name': 'Sanku Maity', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Good quality'}, {'Product': 'readmi', 'Name': 'Sanku Maity', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Good quality'}]
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:31:10] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:31:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:31:17] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:31:17] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'readmi', 'Name': 'SAGAR T THORBOLE', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': "This is Honest Review. Performance is best. 5/5Display is also best. 5/5Camera is Average 3/5Battery is Best 5/5(No Lag No Hang, Smooth UI, Perfect Design) Don't Think Go for it"}, {'Product': 'readmi', 'Name': 'Manzoor Hussain', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'I love my phone'}, {'Product': 'readmi', 'Name': 'sushant kumar', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Super smart phone nice display love this phone'}, {'Product': 'readmi', 'Name': 'Araman Ali', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Nice Product'}, {'Product': 'readmi', 'Name': 'Ammy Singh', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'Nice product'}, {'Product': 'readmi', 'Name': 'Naidu Sasikala', 'Rating': '1', 'CommentHead': 'Terrible product', 'Comment': 'Product not good ,battery charging takes more time finger sensor issue,over heating mobile'}, {'Product': 'readmi', 'Name': 'Snigdhata Ghosh', 'Rating': '4', 'CommentHead': 'Classy product', 'Comment': 'Value for money.... Good quality, Good looking...'}, {'Product': 'readmi', 'Name': 'Anamika Sarkar', 'Rating': '1', 'CommentHead': 'Utterly Disappointed', 'Comment': 'Camera quality very very bad not good'}, {'Product': 'readmi', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Excellent'}, {'Product': 'readmi', 'Name': 'Sanku Maity', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Good quality'}, {'Product': 'readmi', 'Name': 'Sanku Maity', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Good quality'}]
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:31:28] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.5:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 138-149-069
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:36:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:36:46] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:36:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'readmi', 'Name': 'SAGAR T THORBOLE', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': "This is Honest Review. Performance is best. 5/5Display is also best. 5/5Camera is Average 3/5Battery is Best 5/5(No Lag No Hang, Smooth UI, Perfect Design) Don't Think Go for it"}, {'Product': 'readmi', 'Name': 'Manzoor Hussain', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'I love my phone'}, {'Product': 'readmi', 'Name': 'sushant kumar', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Super smart phone nice display love this phone'}, {'Product': 'readmi', 'Name': 'Araman Ali', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Nice Product'}, {'Product': 'readmi', 'Name': 'Ammy Singh', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'Nice product'}, {'Product': 'readmi', 'Name': 'Naidu Sasikala', 'Rating': '1', 'CommentHead': 'Terrible product', 'Comment': 'Product not good ,battery charging takes more time finger sensor issue,over heating mobile'}, {'Product': 'readmi', 'Name': 'Snigdhata Ghosh', 'Rating': '4', 'CommentHead': 'Classy product', 'Comment': 'Value for money.... Good quality, Good looking...'}, {'Product': 'readmi', 'Name': 'Anamika Sarkar', 'Rating': '1', 'CommentHead': 'Utterly Disappointed', 'Comment': 'Camera quality very very bad not good'}, {'Product': 'readmi', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Excellent'}, {'Product': 'readmi', 'Name': 'Sanku Maity', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Good quality'}, {'Product': 'readmi', 'Name': 'Sanku Maity', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Good quality'}]
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:36:53] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:36:53] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:36:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 138-149-069
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 138-149-069
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 138-149-069
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.5:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 138-149-069
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:46:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:46:40] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:46:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'readmi', 'Name': 'SAGAR T THORBOLE', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': "This is Honest Review. Performance is best. 5/5Display is also best. 5/5Camera is Average 3/5Battery is Best 5/5(No Lag No Hang, Smooth UI, Perfect Design) Don't Think Go for it"}, {'Product': 'readmi', 'Name': 'Manzoor Hussain', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'I love my phone'}, {'Product': 'readmi', 'Name': 'sushant kumar', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Super smart phone nice display love this phone'}, {'Product': 'readmi', 'Name': 'Araman Ali', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Nice Product'}, {'Product': 'readmi', 'Name': 'Ammy Singh', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'Nice product'}, {'Product': 'readmi', 'Name': 'Naidu Sasikala', 'Rating': '1', 'CommentHead': 'Terrible product', 'Comment': 'Product not good ,battery charging takes more time finger sensor issue,over heating mobile'}, {'Product': 'readmi', 'Name': 'Snigdhata Ghosh', 'Rating': '4', 'CommentHead': 'Classy product', 'Comment': 'Value for money.... Good quality, Good looking...'}, {'Product': 'readmi', 'Name': 'Anamika Sarkar', 'Rating': '1', 'CommentHead': 'Utterly Disappointed', 'Comment': 'Camera quality very very bad not good'}, {'Product': 'readmi', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Excellent'}, {'Product': 'readmi', 'Name': 'Sanku Maity', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Good quality'}, {'Product': 'readmi', 'Name': 'Sanku Maity', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Good quality'}]
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:46:49] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:46:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:46:49] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.5:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:49:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:49:39] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:49:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'readmi', 'Name': 'SAGAR T THORBOLE', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': "This is Honest Review. Performance is best. 5/5Display is also best. 5/5Camera is Average 3/5Battery is Best 5/5(No Lag No Hang, Smooth UI, Perfect Design) Don't Think Go for it"}, {'Product': 'readmi', 'Name': 'Manzoor Hussain', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'I love my phone'}, {'Product': 'readmi', 'Name': 'sushant kumar', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Super smart phone nice display love this phone'}, {'Product': 'readmi', 'Name': 'Araman Ali', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Nice Product'}, {'Product': 'readmi', 'Name': 'Ammy Singh', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'Nice product'}, {'Product': 'readmi', 'Name': 'Naidu Sasikala', 'Rating': '1', 'CommentHead': 'Terrible product', 'Comment': 'Product not good ,battery charging takes more time finger sensor issue,over heating mobile'}, {'Product': 'readmi', 'Name': 'Snigdhata Ghosh', 'Rating': '4', 'CommentHead': 'Classy product', 'Comment': 'Value for money.... Good quality, Good looking...'}, {'Product': 'readmi', 'Name': 'Anamika Sarkar', 'Rating': '1', 'CommentHead': 'Utterly Disappointed', 'Comment': 'Camera quality very very bad not good'}, {'Product': 'readmi', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Excellent'}, {'Product': 'readmi', 'Name': 'Sanku Maity', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Good quality'}, {'Product': 'readmi', 'Name': 'Sanku Maity', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Good quality'}]
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:49:48] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:49:48] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:49:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
